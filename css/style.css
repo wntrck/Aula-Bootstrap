@@ -1,0 +1,49 @@
+body {
+	font: 12pt verdana	;
+}
+
+.navbar {
+	background-color: #f2e5b8;
+	text-align: center;
+}
+
+.sobre-nos {
+	background-color: #333333;
+	color: #f2e5b8;
+}
+
+.margin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.conteudo {
+	padding: 30px;
+	color: #ffffff;
+}
+
+.albuns {
+	background-color: #111111;
+	color: #f2e5b8;
+}
+
+.titulo-albuns {
+	padding-top: 20px;
+}
+
+h5 {
+	color: #ffffff;
+}
+
+.contato {
+	background-color: #333333;
+	color: #f2e5b8;
+}
+
+.bg-footer {
+	background-color: #272727;
+	color: #ffffff;
+	font-size: 10pt;
+	padding-top: 10px;
+	padding-bottom: 2px;
+}
